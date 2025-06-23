@@ -3,6 +3,9 @@
 ## Description
 This is a simple Arduino-based project that controls a robot car through any Bluetooth-enabled device.
 
+## Video
+- Video link : https://youtu.be/chjMKvlBPRg
+
 ## Components Used
 - Arduino (Uno or similar)
 - L298N Motor Driver Module
@@ -45,9 +48,6 @@ This is a simple Arduino-based project that controls a robot car through any Blu
 ### Additional Notes
 - Switch controls the power supply from the batteries to the motor driver
 - Ensure all grounds (Arduino, Bluetooth, motor driver, battery) are connected together
-
-## Video
-- Video link : https://youtu.be/chjMKvlBPRg
 
 ## How to Use
 
