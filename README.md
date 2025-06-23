@@ -46,6 +46,9 @@ This is a simple Arduino-based project that controls a robot car through any Blu
 - Switch controls the power supply from the batteries to the motor driver
 - Ensure all grounds (Arduino, Bluetooth, motor driver, battery) are connected together
 
+## Video
+- Video link : https://youtu.be/chjMKvlBPRg
+
 ## How to Use
 
 1. **Upload the Code to Arduino**
